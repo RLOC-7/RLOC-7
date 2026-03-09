@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou Raphael 👋
 
-<!--
-**RLOC-7/RLOC-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor em formação  
+🎓 Estudante de Análise de Sistemas  
+🚀 Em transição de carreira para desenvolvimento Back-End  
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- JavaScript
+- MySQL
+- HTML
+- CSS
+- Git e GitHub
+
+## Projetos
+
+📌 Alguns projetos que desenvolvi:
+
+- Task List – Lista de tarefas com JavaScript
+- Classificador de nível de herói
+- Calculadora de salário com base no IPCA
+- Sistema web de restaurante (React)
+
+## Objetivo
+
+Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**, onde eu possa aprender, evoluir e contribuir com projetos reais.
+
+## Contato
+
+LinkedIn: (coloque seu linkedin)  
+Email: (se quiser)
