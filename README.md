@@ -29,5 +29,4 @@ Busco minha primeira oportunidade como **Desenvolvedor Júnior ou Estagiário**,
 
 ## Contato
 
-LinkedIn: (coloque seu linkedin)  
-Email: (se quiser)
+LinkedIn: https://www.linkedin.com/in/raphael-costa-753055205/
