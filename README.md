@@ -12,6 +12,7 @@
 - MySQL
 - HTML
 - CSS
+- React+Vite
 - Git e GitHub
 
 ## Projetos
