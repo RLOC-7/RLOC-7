@@ -19,7 +19,7 @@
 
 📌 Alguns projetos que desenvolvi:
 
-- Task List – Lista de tarefas com JavaScript
+- Tarefex – Gerenciador de tarefas 
 - Classificador de nível de herói
 - Calculadora de salário com base no IPCA
 - Sistema web de restaurante (React)
